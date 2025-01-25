@@ -25,6 +25,7 @@ The problems covered include a wide variety of topics:
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
+| [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,12 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
