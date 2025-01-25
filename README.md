@@ -50,6 +50,7 @@ The problems covered include a wide variety of topics:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chakradhar6304/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Chakradhar6304/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,4 +63,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Chakradhar6304/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
