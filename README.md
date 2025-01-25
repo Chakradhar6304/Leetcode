@@ -37,6 +37,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Chakradhar6304/Leetcode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
