@@ -16,3 +16,15 @@ The problems covered include a wide variety of topics:
 - **Sorting & Searching**
 - **Bit Manipulation**
 - ... and much more! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
