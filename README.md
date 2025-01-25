@@ -26,6 +26,7 @@ The problems covered include a wide variety of topics:
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
+| [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chakradhar6304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -129,5 +130,6 @@ The problems covered include a wide variety of topics:
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
