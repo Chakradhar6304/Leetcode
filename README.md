@@ -76,6 +76,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
+| [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Trie
 |  |
 | ------- |
@@ -104,8 +105,17 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
+| [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
+## Tree
+|  |
+| ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+## Graph
+|  |
+| ------- |
+| [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
