@@ -26,6 +26,7 @@ The problems covered include a wide variety of topics:
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
+| [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ The problems covered include a wide variety of topics:
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
+| [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
+| [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,4 +121,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
