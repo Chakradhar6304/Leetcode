@@ -35,6 +35,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Chakradhar6304/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Chakradhar6304/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
