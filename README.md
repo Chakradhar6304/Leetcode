@@ -24,6 +24,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
+| [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
