@@ -62,6 +62,7 @@ The problems covered include a wide variety of topics:
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
+| [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ The problems covered include a wide variety of topics:
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
