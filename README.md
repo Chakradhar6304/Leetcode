@@ -64,6 +64,7 @@ The problems covered include a wide variety of topics:
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -77,6 +78,7 @@ The problems covered include a wide variety of topics:
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
