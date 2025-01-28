@@ -30,6 +30,7 @@ The problems covered include a wide variety of topics:
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chakradhar6304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,4 +139,8 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
