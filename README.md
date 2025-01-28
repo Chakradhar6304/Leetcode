@@ -25,6 +25,7 @@ The problems covered include a wide variety of topics:
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -79,6 +80,7 @@ The problems covered include a wide variety of topics:
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
