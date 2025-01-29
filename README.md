@@ -28,6 +28,7 @@ The problems covered include a wide variety of topics:
 | [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Chakradhar6304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chakradhar6304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -75,6 +76,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chakradhar6304/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Chakradhar6304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
