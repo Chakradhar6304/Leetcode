@@ -145,4 +145,16 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Chakradhar6304/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Chakradhar6304/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Chakradhar6304/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
