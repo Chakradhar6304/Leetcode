@@ -108,6 +108,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Chakradhar6304/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,4 +160,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Chakradhar6304/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Chakradhar6304/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
