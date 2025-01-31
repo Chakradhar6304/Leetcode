@@ -71,6 +71,7 @@ The problems covered include a wide variety of topics:
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chakradhar6304/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
@@ -108,6 +109,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 ## Binary Search
 |  |
 | ------- |
