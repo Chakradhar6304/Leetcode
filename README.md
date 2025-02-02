@@ -43,6 +43,7 @@ The problems covered include a wide variety of topics:
 | [0012-integer-to-roman](https://github.com/Chakradhar6304/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Chakradhar6304/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
@@ -79,6 +80,7 @@ The problems covered include a wide variety of topics:
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -183,4 +185,5 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
