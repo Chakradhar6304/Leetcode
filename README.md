@@ -79,6 +79,7 @@ The problems covered include a wide variety of topics:
 | [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Chakradhar6304/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/Chakradhar6304/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -112,6 +113,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chakradhar6304/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Chakradhar6304/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +141,7 @@ The problems covered include a wide variety of topics:
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Chakradhar6304/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Breadth-First Search
@@ -166,6 +169,7 @@ The problems covered include a wide variety of topics:
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Chakradhar6304/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/Chakradhar6304/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
