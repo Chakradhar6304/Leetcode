@@ -43,6 +43,7 @@ The problems covered include a wide variety of topics:
 | [0012-integer-to-roman](https://github.com/Chakradhar6304/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/Chakradhar6304/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Chakradhar6304/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
@@ -78,6 +79,7 @@ The problems covered include a wide variety of topics:
 | [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0290-word-pattern](https://github.com/Chakradhar6304/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
