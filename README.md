@@ -25,6 +25,7 @@ The problems covered include a wide variety of topics:
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chakradhar6304/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Chakradhar6304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chakradhar6304/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
@@ -167,6 +170,7 @@ The problems covered include a wide variety of topics:
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Design
