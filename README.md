@@ -45,6 +45,7 @@ The problems covered include a wide variety of topics:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chakradhar6304/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Chakradhar6304/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Chakradhar6304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Chakradhar6304/Leetcode/tree/master/0290-word-pattern) |
@@ -80,6 +81,7 @@ The problems covered include a wide variety of topics:
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chakradhar6304/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Chakradhar6304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -96,6 +98,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chakradhar6304/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Chakradhar6304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Chakradhar6304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
