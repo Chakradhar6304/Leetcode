@@ -25,6 +25,7 @@ The problems covered include a wide variety of topics:
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
+| [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -167,6 +168,7 @@ The problems covered include a wide variety of topics:
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Prefix Sum
