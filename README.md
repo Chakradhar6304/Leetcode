@@ -30,6 +30,7 @@ The problems covered include a wide variety of topics:
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Chakradhar6304/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
@@ -144,6 +145,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Chakradhar6304/Leetcode/tree/master/0274-h-index) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
@@ -210,4 +212,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Chakradhar6304/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
