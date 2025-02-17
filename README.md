@@ -26,6 +26,7 @@ The problems covered include a wide variety of topics:
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
 | [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -66,6 +67,7 @@ The problems covered include a wide variety of topics:
 | [0009-palindrome-number](https://github.com/Chakradhar6304/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chakradhar6304/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -131,6 +133,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
