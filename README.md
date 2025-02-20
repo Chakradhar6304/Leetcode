@@ -25,6 +25,7 @@ The problems covered include a wide variety of topics:
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Chakradhar6304/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Chakradhar6304/Leetcode/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/Chakradhar6304/Leetcode/tree/master/0392-is-subsequence) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
@@ -176,6 +178,7 @@ The problems covered include a wide variety of topics:
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Chakradhar6304/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
