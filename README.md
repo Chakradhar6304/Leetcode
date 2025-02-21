@@ -86,6 +86,7 @@ The problems covered include a wide variety of topics:
 | [0014-longest-common-prefix](https://github.com/Chakradhar6304/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Chakradhar6304/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/Chakradhar6304/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
