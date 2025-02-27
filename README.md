@@ -23,6 +23,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Chakradhar6304/Leetcode/tree/master/0045-jump-game-ii) |
@@ -111,6 +112,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chakradhar6304/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
