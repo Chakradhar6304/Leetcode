@@ -32,6 +32,7 @@ The problems covered include a wide variety of topics:
 | [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Chakradhar6304/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
@@ -72,6 +73,7 @@ The problems covered include a wide variety of topics:
 | [0012-integer-to-roman](https://github.com/Chakradhar6304/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chakradhar6304/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Chakradhar6304/Leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -118,6 +120,7 @@ The problems covered include a wide variety of topics:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Chakradhar6304/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/Chakradhar6304/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chakradhar6304/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chakradhar6304/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
