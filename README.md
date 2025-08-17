@@ -23,6 +23,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chakradhar6304/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Chakradhar6304/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
@@ -154,6 +155,7 @@ The problems covered include a wide variety of topics:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chakradhar6304/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chakradhar6304/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -226,6 +228,7 @@ The problems covered include a wide variety of topics:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chakradhar6304/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
