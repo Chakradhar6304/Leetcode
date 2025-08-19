@@ -4,14 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        bracket_map = {')': '(', '}': '{', ']': '['}
+        if len(s) % 2 == 1:
+            return False
+        
         stack = []
-
-        for char in s:
-            if char in bracket_map.values():
-                stack.append(char)
-            elif char in bracket_map.keys():
-             
-                if not stack or stack.pop() != bracket_map[char]:
+        match = {')': '(', ']': '[', '}': '{'}
+        
+        for ch in s:
+            if ch in match.values():          
+                stack.append(ch)
+            else:                             
+                if not stack or stack[-1] != match.get(ch):
                     return False
+                stack.pop()
+        
         return not stack
