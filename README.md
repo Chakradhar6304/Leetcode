@@ -49,6 +49,7 @@ The problems covered include a wide variety of topics:
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chakradhar6304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chakradhar6304/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ The problems covered include a wide variety of topics:
 | [0020-valid-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Chakradhar6304/Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ The problems covered include a wide variety of topics:
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 ## Design
 |  |
 | ------- |
@@ -265,4 +268,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Chakradhar6304/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
