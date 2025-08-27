@@ -114,6 +114,7 @@ The problems covered include a wide variety of topics:
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1970-sorting-the-sentence](https://github.com/Chakradhar6304/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,6 +183,7 @@ The problems covered include a wide variety of topics:
 | [0274-h-index](https://github.com/Chakradhar6304/Leetcode/tree/master/0274-h-index) |
 | [0506-relative-ranks](https://github.com/Chakradhar6304/Leetcode/tree/master/0506-relative-ranks) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1970-sorting-the-sentence](https://github.com/Chakradhar6304/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
