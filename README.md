@@ -63,6 +63,7 @@ The problems covered include a wide variety of topics:
 | [0290-word-pattern](https://github.com/Chakradhar6304/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Chakradhar6304/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +150,7 @@ The problems covered include a wide variety of topics:
 | [0392-is-subsequence](https://github.com/Chakradhar6304/Leetcode/tree/master/0392-is-subsequence) |
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Trie
 |  |
 | ------- |
@@ -203,6 +205,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +251,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0169-majority-element](https://github.com/Chakradhar6304/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -272,4 +276,12 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
