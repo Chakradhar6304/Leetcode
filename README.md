@@ -48,6 +48,7 @@ The problems covered include a wide variety of topics:
 | [1319-unique-number-of-occurrences](https://github.com/Chakradhar6304/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chakradhar6304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1972-rotating-the-box](https://github.com/Chakradhar6304/Leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chakradhar6304/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 ## Hash Table
@@ -140,6 +141,7 @@ The problems covered include a wide variety of topics:
 | [0392-is-subsequence](https://github.com/Chakradhar6304/Leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/Chakradhar6304/Leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chakradhar6304/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Dynamic Programming
 |  |
@@ -259,6 +261,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Chakradhar6304/Leetcode/tree/master/0036-valid-sudoku) |
+| [1972-rotating-the-box](https://github.com/Chakradhar6304/Leetcode/tree/master/1972-rotating-the-box) |
 ## Counting Sort
 |  |
 | ------- |
