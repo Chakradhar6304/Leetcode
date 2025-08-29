@@ -83,6 +83,7 @@ The problems covered include a wide variety of topics:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chakradhar6304/Leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1971-incremental-memory-leak](https://github.com/Chakradhar6304/Leetcode/tree/master/1971-incremental-memory-leak) |
 ## Recursion
 |  |
 | ------- |
@@ -286,4 +287,8 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Simulation
+|  |
+| ------- |
+| [1971-incremental-memory-leak](https://github.com/Chakradhar6304/Leetcode/tree/master/1971-incremental-memory-leak) |
 <!---LeetCode Topics End-->
