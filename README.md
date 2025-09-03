@@ -52,6 +52,7 @@ The problems covered include a wide variety of topics:
 | [1972-rotating-the-box](https://github.com/Chakradhar6304/Leetcode/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chakradhar6304/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ The problems covered include a wide variety of topics:
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1326-sum-of-floored-pairs](https://github.com/Chakradhar6304/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1971-incremental-memory-leak](https://github.com/Chakradhar6304/Leetcode/tree/master/1971-incremental-memory-leak) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Chakradhar6304/Leetcode/tree/master/0260-single-number-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -278,6 +281,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chakradhar6304/Leetcode/tree/master/0022-generate-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -298,4 +302,12 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [1971-incremental-memory-leak](https://github.com/Chakradhar6304/Leetcode/tree/master/1971-incremental-memory-leak) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
