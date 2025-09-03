@@ -46,6 +46,7 @@ The problems covered include a wide variety of topics:
 | [0643-maximum-average-subarray-i](https://github.com/Chakradhar6304/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/Chakradhar6304/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1326-sum-of-floored-pairs](https://github.com/Chakradhar6304/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chakradhar6304/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1972-rotating-the-box](https://github.com/Chakradhar6304/Leetcode/tree/master/1972-rotating-the-box) |
@@ -84,6 +85,7 @@ The problems covered include a wide variety of topics:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chakradhar6304/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Chakradhar6304/Leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1326-sum-of-floored-pairs](https://github.com/Chakradhar6304/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1971-incremental-memory-leak](https://github.com/Chakradhar6304/Leetcode/tree/master/1971-incremental-memory-leak) |
 ## Recursion
 |  |
@@ -174,6 +176,7 @@ The problems covered include a wide variety of topics:
 | [0035-search-insert-position](https://github.com/Chakradhar6304/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Chakradhar6304/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1326-sum-of-floored-pairs](https://github.com/Chakradhar6304/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chakradhar6304/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
@@ -226,6 +229,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Chakradhar6304/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1326-sum-of-floored-pairs](https://github.com/Chakradhar6304/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Chakradhar6304/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 ## Design
