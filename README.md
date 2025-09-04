@@ -121,6 +121,7 @@ The problems covered include a wide variety of topics:
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chakradhar6304/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Chakradhar6304/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1970-sorting-the-sentence](https://github.com/Chakradhar6304/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Chakradhar6304/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,6 +228,7 @@ The problems covered include a wide variety of topics:
 | [0135-candy](https://github.com/Chakradhar6304/Leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Chakradhar6304/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Chakradhar6304/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Chakradhar6304/Leetcode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
