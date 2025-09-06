@@ -91,6 +91,7 @@ The problems covered include a wide variety of topics:
 | [1326-sum-of-floored-pairs](https://github.com/Chakradhar6304/Leetcode/tree/master/1326-sum-of-floored-pairs) |
 | [1971-incremental-memory-leak](https://github.com/Chakradhar6304/Leetcode/tree/master/1971-incremental-memory-leak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Chakradhar6304/Leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +163,7 @@ The problems covered include a wide variety of topics:
 | [0514-freedom-trail](https://github.com/Chakradhar6304/Leetcode/tree/master/0514-freedom-trail) |
 | [0863-sum-of-distances-in-tree](https://github.com/Chakradhar6304/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Chakradhar6304/Leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Trie
 |  |
 | ------- |
@@ -311,6 +313,7 @@ The problems covered include a wide variety of topics:
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Chakradhar6304/Leetcode/tree/master/1996-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Enumeration
 |  |
 | ------- |
