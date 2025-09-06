@@ -53,6 +53,7 @@ The problems covered include a wide variety of topics:
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Chakradhar6304/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Chakradhar6304/Leetcode/tree/master/1985-maximum-subarray-min-product) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Chakradhar6304/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ The problems covered include a wide variety of topics:
 | [0383-ransom-note](https://github.com/Chakradhar6304/Leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Chakradhar6304/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Chakradhar6304/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -242,6 +244,7 @@ The problems covered include a wide variety of topics:
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chakradhar6304/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/Chakradhar6304/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Chakradhar6304/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
